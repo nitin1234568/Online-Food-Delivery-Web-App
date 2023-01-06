@@ -1,0 +1,86 @@
+
+@media screen and (max-width:1000px) 
+{
+    #logo
+    {
+        width: 200px;
+    }
+    #navbar ul li a 
+    {
+    
+        padding: 0px 15px;
+    }
+   
+    
+}
+
+@media screen and (max-width:350px) 
+{
+    .Ourservices p
+    {
+        margin-left: 10px;
+    }
+    #Home
+    {
+        height:700px;
+        
+    }
+    #Home::before
+    {
+        height: 1300px;
+    }
+    .h1-primary
+    {
+        font-size:35px;
+    }
+    .services-Container h1 
+    {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    #navbar ul li a 
+    {
+        font-size: 1rem;
+        padding: 0px 7px;
+    }
+    
+    
+    
+    
+}
+@media screen and (max-width:1050px) 
+{
+    #navbar ul li a 
+    {
+    
+        padding: 0px 25px;
+    }
+    
+}
+@media screen and (max-width:980px) 
+{
+    #navbar ul li a 
+    {
+    
+        padding: 0px 35px;
+    }
+    
+}
+@media screen and (max-width:320px) 
+{
+    #services .box
+    {
+    
+        
+        height: 500px;
+    }
+    .btn
+   {
+     height: 40px;
+     font-size: 1rem;
+   }
+    
+}
+
+
+
